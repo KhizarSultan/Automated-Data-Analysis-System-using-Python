@@ -1,0 +1,2 @@
+# Automated-Data-Analysis-System-using-Python
+This project will solve the problem of educational systems who want to analysis of raw data and make decision on the basis of analysis.  This project will generate all kind of graphs, charts , tables and calculate probabilities of raw data and save them in single and multiple file for the ease of user.  Following tools and libraries are used in this project: 1)Pycharm, tkinter 2) numpy, scipy, pandas 3) matplotlib
